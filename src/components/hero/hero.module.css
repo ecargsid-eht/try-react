@@ -1,5 +1,5 @@
 .container{
-    height: calc(100px- 60px);
+    /* height: calc(100px- 60px); */
     width:100%;
     background-image: url(../../assets/wall.png);
     background-size: cover;
